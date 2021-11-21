@@ -1,16 +1,16 @@
 module.exports = {
-  BOT_TOKEN: "OTAwODc3OTUzOTA5NTMwNjU0.YXHt-Q.Ub5JXYGOKF03x4ZSslYR3GqDnEE", // Your discord bot token
-  MONGO_CONNECTION: "mongodb+srv://flaing:rollers07@cluster0.4iq0p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", // URI of the mongo database
+  BOT_TOKEN: "", // Your discord bot token
+  MONGO_CONNECTION: "", // URI of the mongo database
   JOIN_LEAVE_WEBHOOK: "", // Webhook to which guild join/leave details will be sent
-  OWNER_IDS: "852651552686866482", // Bot owner ID's
-  PREFIX: "a!", // Default prefix for the bot
-  BOT_INVITE: "https://discord.com/api/oauth2/authorize?client_id=900877953909530654&permissions=8&scope=bot%20applications.commands", // Your bot invite link
-  SUPPORT_SERVER: "https://discord.gg/kXJcTyn5A5", // Your bot support server
+  OWNER_IDS: "", // Bot owner ID's
+  PREFIX: "", // Default prefix for the bot
+  BOT_INVITE: "", // Your bot invite link
+  SUPPORT_SERVER: "", // Your bot support server
   DASHBOARD: {
     enabled: true, // enable or disable dashboard
     baseURL: "http://localhost:8080", // base url
     failureURL: "http://localhost:8080", // failure redirect url
-    secret: "xKYWsjumhmZg_Ui_QYqT8sFglu3VcN8T", // bot secret
+    secret: "", // bot secret
     port: "8080", // port to run the bot on
     expressSessionPassword: "discordbot", // random password string
   },
