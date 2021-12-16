@@ -1,5 +1,5 @@
 module.exports = {
-  BOT_TOKEN: "OTAwODc3OTUzOTA5NTMwNjU0.YXHt-Q.u7QSycasDQi9L9Bz8H0I-D6_99I", // Your discord bot token
+  BOT_TOKEN: "OTAwODc3OTUzOTA5NTMwNjU0.YXHt-Q.laJX-3y68sHA21uF8hFjMNFWZng", // Your discord bot token
   MONGO_CONNECTION: "mongodb+srv://flaing:rollers07@cluster0.4iq0p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", // URI of the mongo database
   JOIN_LEAVE_WEBHOOK: "https://discord.com/api/webhooks/912117558763733012/5AnBGXfrQs4cK6mf1J4k9_NFJsPEEthjuQr37l12JOEpHzHFxgp07p57kbtz1hM9nkmo", // Webhook to which guild join/leave details will be sent
   OWNER_IDS: "852651552686866482", // Bot owner ID's
